@@ -1,5 +1,5 @@
 PROJECT = 'X'
-MAIN = test
+MAIN = template
 SHELL =/bin/zsh
 DATE = $(shell date +"%d%b%Y")
 
